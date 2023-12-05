@@ -1,1 +1,1 @@
-# Astrophysics-DataScience
+# Astrophysics and Data Science
